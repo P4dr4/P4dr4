@@ -13,9 +13,7 @@ I'm passionate about DevOps, DevSecOps, and Security. Welcome to my GitHub profi
 
 ![P4dr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4dr4&show_icons=true&theme=dark)
 
-<div>
-    <img src="sneak.gif" alt="Sneak Animation" width="200px">
-</div>
+![Sneak Animation](sneak.gif)
 
 ### Recent Activity
 
