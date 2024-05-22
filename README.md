@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm P4dr4! 👋
 
-<!--
-**P4dr4/P4dr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about DevOps, DevSecOps, and Security. Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my skills in DevOps and Security.
+- 🌱 I’m currently learning new tools and techniques to enhance my knowledge.
+- 💬 Ask me about anything related to DevOps, DevSecOps, or Security.
+- 📫 How to reach me: paccarini.bar@outlook.com
+
+## GitHub Stats
+
+![P4dr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4dr4&show_icons=true&theme=dark)
+
+<div>
+    <img src="sneak.gif" alt="Sneak Animation" width="200px">
+</div>
+
+### Recent Activity
+
+* 📦 Released version 1.0.0 of [create-git-tag-action](https://github.com/P4dr4/create-git-tag-action)
+* 💻 Angular App - Sample [Angular](https://github.com/P4dr4/Angular)
+
+## Connect with Me
+
+Let's connect and chat! 
+
+Feel free to explore my repositories and reach out if you have any questions or just want to say hi! 😊
