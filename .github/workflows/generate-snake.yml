@@ -11,16 +11,18 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+
       - name: Generate Snake
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Make sure you have this set up in your repository secrets
+
       - name: Upload Snake
         uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/snake.svg
+
       - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
