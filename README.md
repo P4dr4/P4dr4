@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/P4dr4/P4dr4/output/dist/snake.svg" alt="GitHub Contribution Grid Snake Animation">
+  ![GitHub Contribution Grid Snake](https://github.com/P4dr4/P4dr4/raw/output/dist/snake.svg)
 </p>
 
 ---
@@ -52,4 +52,10 @@
 
 <p align="center">
   Feel free to explore my repositories and reach out if you have any questions or just want to say hi! 😊
+</p>
+
+---
+
+<p align="center">
+  This <strong>P4dr4/P4dr4</strong> repository is special because its `README.md` appears on my GitHub profile. It's a great way to introduce myself and share what I'm working on. Enjoy your visit!
 </p>
