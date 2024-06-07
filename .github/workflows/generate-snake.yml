@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # Make sure you have this set up in your repository secrets
+          github_user_name: P4dr4  # Add your GitHub username here
 
       - name: Upload Snake
         uses: actions/upload-artifact@v3
