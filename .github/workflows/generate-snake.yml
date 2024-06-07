@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
+permissions:
+  contents: write  # Grant write permission to the contents
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -38,3 +41,4 @@ jobs:
           author_email: github-actions[bot]@users.noreply.github.com
           message: "Updated snake animation"
           add: dist/snake.svg
+          push: true
