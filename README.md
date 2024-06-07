@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  ![GitHub Contribution Grid Snake](https://github.com/P4dr4/P4dr4/raw/output/dist/snake.svg)
+  <img src="https://github.com/P4dr4/P4dr4/raw/output/dist/snake.svg" alt="GitHub Contribution Grid Snake">
 </p>
 
 ---
