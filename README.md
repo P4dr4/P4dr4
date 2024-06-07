@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/P4dr4/P4dr4/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation">
+  <img src="https://raw.githubusercontent.com/P4dr4/P4dr4/output/dist/snake.svg" alt="GitHub Contribution Grid Snake Animation">
 </p>
 
 ---
@@ -53,4 +53,3 @@
 <p align="center">
   Feel free to explore my repositories and reach out if you have any questions or just want to say hi! 😊
 </p>
-
