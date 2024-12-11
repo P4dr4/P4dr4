@@ -33,7 +33,6 @@
 - 📦 **Released:** 
   - Version 1.0.0 of [create-git-tag-action](https://github.com/P4dr4/create-git-tag-action)
 - 💻 **Projects:** 
-  - [Angular App](https://github.com/P4dr4/angular-app) - A sample Angular project showcasing various features and best practices.
   - [Project X](https://github.com/P4dr4/projectX) - IDP prototype
   - [Project XF](https://github.com/P4dr4/projectXF) - Angular Frontend
   - [Project XB](https://github.com/P4dr4/projectXF) - NodeJS Backend
