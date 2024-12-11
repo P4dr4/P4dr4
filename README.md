@@ -42,7 +42,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-accarini-b8bbb61b4/">
+  <a href="[https://www.linkedin.com/in/pedro-accarini-b8bbb61b4/](https://www.linkedin.com/in/pedro-accarini-barros-de-azevedo-b8bbb61b4)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </p>
